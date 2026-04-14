@@ -32,7 +32,7 @@ This project enables AI assistants (e.g., Claude Code) running on **Machine A** 
 ### 1. Clone or copy this project
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/zotero-mcp-bridge.git
+git clone https://github.com/sikongxiufan/zotero-mcp-bridge.git
 cd zotero-mcp-bridge
 ```
 
