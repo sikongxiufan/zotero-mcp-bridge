@@ -19,7 +19,7 @@ This project enables AI assistants (e.g., Claude Code) running on **Machine A** 
 ### Machine B (Zotero Server)
 
 - [Zotero](https://www.zotero.org/) installed
-- [Zotero MCP plugin](https://github.com/nicholashh/zotero-mcp-server) installed and running
+- [Zotero MCP plugin](https://github.com/cookjohn/zotero-mcp) installed and running
 - Zotero MCP server must be accessible over LAN (default: `http://localhost:23120/mcp`)
 - Both machines must be on the **same local network**
 
