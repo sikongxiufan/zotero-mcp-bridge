@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "zotero": {
+      "command": "python",
+      "args": ["/path/to/zotero_claude_bridge.py"],
+      "env": {
+        "ZOTERO_MCP_URL": "http://192.168.123.106:23120/mcp"
+      }
+    }
+  }
+}
